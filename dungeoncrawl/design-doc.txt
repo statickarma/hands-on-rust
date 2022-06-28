@@ -22,9 +22,9 @@ Minimum Viable Product
 6. Display a "game over" screen when the player dies.
 7. Add the Amulet of Yala to the level and let the player win by reaching it.
 
-Strech Goals
+Stretch Goals
 1. Add Fields-of-View.
-2. Add more intersting dungeon designs.
+2. Add more interesting dungeon designs.
 3. Add some dungeon themes.
 4. Add multiple layers to the dungeon, with the Amulet on the last one.
 5. Add varied weapons to the game.
